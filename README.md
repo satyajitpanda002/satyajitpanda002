@@ -6,7 +6,7 @@
 - 📫 How to reach me ...
    -   gmail - satyajitpanda002@gmail.com
    -   LinkedIn - https://www.linkedin.com/in/satyajit-panda-142494196/
- - 📝 Link to my resume - https://drive.google.com/file/d/1iXZwr7-n1QnZlivDhpRxvTme5OeNIbzN/view
+ - 📝 Link to my resume - https://drive.google.com/file/d/1HIaRKb6xKndlDYb1ZQHX2j-cwyhEWu-v/view
 
 <!---
 satyajitpanda002/satyajitpanda002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
